@@ -47,7 +47,7 @@ require (
 	github.com/prometheus/alertmanager v0.21.0
 	github.com/prometheus/client_golang v1.7.1
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.11.1
+	github.com/prometheus/common v0.13.0
 	github.com/prometheus/prometheus v1.8.2-0.20200819132913-cb830b0a9c78
 	github.com/uber/jaeger-client-go v2.25.0+incompatible
 	github.com/uber/jaeger-lib v2.2.0+incompatible
